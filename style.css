@@ -1,46 +1,46 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #0f172a;
-  color: #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .weather-app {
-  padding: 20px;
-  text-align: center;
-  width: 500px;
+    padding: 20px;
+    text-align: center;
+    width: 500px;
 }
 
 .search-box {
-  display: flex;
-  gap: 10px;
+    display: flex;
+    gap: 10px;
 }
 
 .search-box input {
-  flex: 1;
-  background: white;
-  border: none;
-  color: black;
-  font-size: 1rem;
-  border-radius: 8px;
-  padding: 1rem 1rem;
+    flex: 1;
+    background: white;
+    border: none;
+    color: black;
+    font-size: 1rem;
+    border-radius: 8px;
+    padding: 1rem 1rem;
 }
 
 .search-box button {
-  background-color: #0079ff;
-  color: white;
-  border: none;
-  padding: 1rem 2rem;
-  border-radius: 8px;
-  cursor: pointer;
+    background-color: #0079ff;
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    cursor: pointer;
 }
 
 .result {
-  margin-top: 20px;
-  border-radius: 10px;
-  padding: 20px;
-  background: #1e293b;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    background: #1e293b;
 }
